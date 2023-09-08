@@ -86,10 +86,6 @@ div{
     height: 150px;
     overflow: auto;
 }
-footer{
-    position: fixed;
-    bottom: 0;
-}
 
 .row {
     width: 90%;
